@@ -1,2 +1,2 @@
 # hello_world
-I'm new here what's going on
+I'm new here I have no idea what's going on
